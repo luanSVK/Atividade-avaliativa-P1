@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Coxinha de Frango",
+    "price": 5.5,
+    "sku": "COX001",
+    "description": "Deliciosa coxinha de frango com massa crocante"
+  },
+  {
+    "id": 2,
+    "name": "Picanha Grelhada",
+    "price": 35.9,
+    "sku": "PIC001",
+    "description": "Picanha grelhada no ponto com temperos especiais"
+  },
+  {
+    "id": 3,
+    "name": "Caipirinha de Limão",
+    "price": 12,
+    "sku": "CAI001",
+    "description": "Tradicional caipirinha brasileira com limão"
+  },
+  {
+    "id": 4,
+    "name": "Torta de Limão",
+    "price": 8.5,
+    "sku": "TOR001",
+    "description": "Torta de limão cremosa com merengue"
+  },
+  {
+    "id": 5,
+    "name": "Hamb�rguer Artesanal",
+    "price": 18.5,
+    "sku": "HAM001",
+    "description": "Hamb�rguer artesanal com ingredientes frescos"
+  }
+]
